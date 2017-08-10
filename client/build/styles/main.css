@@ -1,0 +1,9 @@
+input { 
+    margin: auto;
+    display:block;
+    position:relative;
+}
+
+div {
+    text-align: center;
+}
